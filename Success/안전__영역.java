@@ -1,4 +1,4 @@
-package ª©ª©∑Œµ•¿Ã;
+package Success;
 
 import java.io.InputStreamReader;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package D0902;
+package Fail;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

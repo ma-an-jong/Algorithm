@@ -1,4 +1,4 @@
-package D1102;
+package Trying;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

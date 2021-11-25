@@ -1,4 +1,4 @@
-package D0928;
+package Success;
 
 public class 에라토스테네스의_체 {
 	public static void main(String args[]) {

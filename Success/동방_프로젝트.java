@@ -1,4 +1,4 @@
-package D0906;
+package Success;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

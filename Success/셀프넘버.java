@@ -1,4 +1,4 @@
-package D1102;
+package Success;
 
 import java.io.BufferedWriter;
 import java.io.OutputStreamWriter;

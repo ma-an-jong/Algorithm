@@ -1,4 +1,4 @@
-package D0912;
+package Success;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

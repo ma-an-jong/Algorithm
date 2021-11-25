@@ -1,4 +1,4 @@
-package ю╤гаго╠Б╫х╬Н;
+package Success;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

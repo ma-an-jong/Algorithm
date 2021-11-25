@@ -1,4 +1,4 @@
-package ª©ª©∑Œµ•¿Ã;
+package Success;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

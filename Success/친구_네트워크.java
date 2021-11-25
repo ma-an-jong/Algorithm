@@ -1,4 +1,4 @@
-package D1101;
+package Success;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
