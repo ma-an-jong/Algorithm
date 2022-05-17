@@ -1,4 +1,5 @@
-package Fail;
+package Algorithm.Fail;
+
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
