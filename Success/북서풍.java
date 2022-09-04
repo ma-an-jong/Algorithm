@@ -1,4 +1,4 @@
-package Algorithm.Trying;
+package Algorithm.Success;
 import java.io.*;
 import java.util.*;
 
