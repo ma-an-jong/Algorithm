@@ -25,6 +25,7 @@ public class 동전_뒤집기 {
         for(int i = 0 ; i < N;i++)
         {
             String str = br.readLine();
+
             for(int j = 0 ; j < N;j++)
             {
                 arr[i][j] = str.charAt(j);
